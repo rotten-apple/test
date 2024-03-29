@@ -1,7 +1,7 @@
 host-suffix,hath.network,EHen
 host,ehgt,EHen
-ip-cidr 172.67.0.127/32,EHen
-ip-cidr 178.175.129.254/32,EHen
-ip-cidr 94.100.18.249/32,EHen
-ip-cidr 178.162.147.246/32,EHen
-ip-cidr 94.100.18.243/32,EHen
+ip-cidr,172.67.0.127/32,EHen
+ip-cidr,178.175.129.254/32,EHen
+ip-cidr,94.100.18.249/32,EHen
+ip-cidr,178.162.147.246/32,EHen
+ip-cidr,94.100.18.243/32,EHen
